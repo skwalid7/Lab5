@@ -1,6 +1,5 @@
 <img width="1109" height="577" alt="Server" src="https://github.com/user-attachments/assets/321bc593-0500-438c-8d00-9b849c4c5e8c" />
 
-<<<<<<< HEAD
 # TaskFlow
 
 A modern, responsive todo list dashboard — organize your day, one task at a time.
